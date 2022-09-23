@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"Category":{"$numberInt":"1"}},"name":"Category_1","background":true},{"v":{"$numberInt":"2"},"key":{"slug":{"$numberInt":"1"}},"name":"slug_1","background":true}],"uuid":"0a1d7276ce3f4c53b6cd29f9ae10d685","collectionName":"posts","type":"collection"}
